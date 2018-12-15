@@ -1,5 +1,5 @@
 # Hoang QMK Keymap
-This HHKB & splitted spacebar layout allows coding with little interuptions. The keymap is optimized for coding C# using ReSharper (in combination with Visual Studio or Rider). This keymap uses `LAYOUT_hhkb_split` configuration which's added along with this keymap.
+This HHKB & splitted spacebar layout allows coding with little interruptions. The keymap is optimized for coding C# using ReSharper (in combination with Visual Studio or Rider). This keymap uses `LAYOUT_hhkb_split` configuration which's added along with this keymap.
 
 ![TINA-C with splitted spacebar](https://i.redd.it/h1m9zn8f8b321.jpg)
 

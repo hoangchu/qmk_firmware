@@ -1,6 +1,6 @@
 # Hoang M60-A QMK Keymap
 
-![M60-A Sage with KAT Alpha keycaps](https://github.com/hoangchu/qmk_firmware/tree/master/keyboards/rama/m6_a/keymaps/hoang/nerddinner.jpg)
+![M60-A Sage with KAT Alpha keycaps](nerddinner.jpg)
 
 ## Default - Layer 0
 ```
